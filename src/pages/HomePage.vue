@@ -13,22 +13,22 @@
         :loop="true">
             <swiper-slide>
                 <article>
-                    <h2>This is my homepage</h2>
-                    <p>let's have a break!</p>
+                    <h2>암호화폐 실시간 상태</h2>
+                    <p>실시간 거래 및 수량가 확인해보세요</p>
                 </article>
                 <img src="@/assets/images/mainBanner001.jpg" alt="slide">
             </swiper-slide>
             <swiper-slide>
                 <article>
-                    <h2>This is my homepage</h2>
-                    <p>let's have a break!</p>
+                    <h2>암호화폐 실시간 상태</h2>
+                    <p>실시간 거래 및 수량가 확인해보세요</p>
                 </article>
                 <img src="@/assets/images/mainBanner002.jpg" alt="slide">
             </swiper-slide>
             <swiper-slide>
                 <article>
-                    <h2>This is my homepage</h2>
-                    <p>let's have a break!</p>
+                    <h2>암호화폐 실시간 상태</h2>
+                    <p>실시간 거래 및 수량가 확인해보세요</p>>
                 </article>
                 <img src="@/assets/images/mainBanner003.jpg" alt="slide">
             </swiper-slide>
