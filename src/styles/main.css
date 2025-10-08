@@ -1,0 +1,51 @@
+/* 메인 css */
+.mainVisual{
+    background: #ddd;
+    height:100dvh;
+    overflow: hidden;
+    border-radius: 0 0 5dvw 0;
+    position: relative;
+}
+.mainSearch{
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+    max-width: 140rem;
+    height: 6dvh;
+    padding-left: 1rem;
+    border: 0;
+    font-size: 1em;
+    border-radius: 1rem;
+}
+.mainSwiper{
+    height: 100%;
+}
+.mainSwiper swiper-slide{
+    position: relative;
+}
+.mainSwiper swiper-slide article{
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    max-width: 140rem;
+    left: 50%;
+    transform: translate(-50%);
+    color: #fff;
+    text-align: left;
+    font-size: 3em;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    row-gap: .7em;
+}
+.mainSwiper swiper-slide img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.sct{
+    height: 100dvh;
+}

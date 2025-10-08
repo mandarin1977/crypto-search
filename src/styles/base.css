@@ -1,0 +1,21 @@
+/* font 적용 */
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+/* font 적용 */
+/* default */
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    line-height: 1;
+    box-sizing: border-box;
+    font-family:'Pretendard Variable';
+    font-style:normal;
+}
+html{
+    font-size: 10px;
+}
+body{
+    font-size: 1.6rem;
+}
+/* default */
